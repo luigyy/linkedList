@@ -1,0 +1,24 @@
+#BlueJ class context
+comment0.target=Nodo
+comment0.text=\ \n\ Clase\ Nodo\ usada\ por\ la\ clase\ Lista.\n\ \n\ @author(luigy\ valverde)\n\ @version(19/06/2022)\n
+comment1.params=elemento\ anterior\ siguiente
+comment1.target=Nodo(int,\ Nodo,\ Nodo)
+comment1.text=\n\ Constructor\ para\ objetos\ de\ la\ clase\ Nodo.\n
+comment2.params=
+comment2.target=Nodo\ getNext()
+comment2.text=\n\ Consigue\ el\ valor\ del\ nodo\ siguiente\n
+comment3.params=element
+comment3.target=void\ setNextValue(int)
+comment3.text=\n\ Sets\ the\ value\ of\ the\ next\ element\n\ @param\ element\ value\ for\ the\ node.\n
+comment4.params=element
+comment4.target=void\ setPreviousValue(int)
+comment4.text=\n\ Sets\ the\ value\ of\ the\ previous\ element\n\ @param\ element\ \ value\ for\ the\ node.\n
+comment5.params=
+comment5.target=Nodo\ getPrevious()
+comment5.text=\n\ Consigue\ nodo\ anterior\n
+comment6.params=
+comment6.target=int\ getValue()
+comment6.text=\n\ Gets\ value\ of\ the\ current\ node\n
+comment7.params=node
+comment7.target=void\ setNext(Nodo)
+numComments=8

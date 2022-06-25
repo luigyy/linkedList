@@ -1,0 +1,19 @@
+#BlueJ class context
+comment0.target=Lista
+comment0.text=\ \n\ Clase\ Lista\ implementada\ como\ lista\ doblemente\ enlazada\ (con\ o\ sin\ nodo\ sentinela)\n\ @author(luigy\ valverde)\n\ @version(19/06/2022)\n
+comment1.params=
+comment1.target=Lista()
+comment1.text=\n\ Constructor\n
+comment2.params=elemento
+comment2.target=void\ agregar(int)
+comment2.text=\n\ Agrega\ el\ elemento\ a\ la\ lista\n\ @param\ elemento\ \ elemento\ a\ agregar\n
+comment3.params=
+comment3.target=void\ imprimir()
+comment3.text=\n\ Imprime\ los\ elementos\ de\ la\ lista.\n
+comment4.params=elemento
+comment4.target=boolean\ buscar(int)
+comment4.text=\ \n\ Busca\ el\ elemento\ en\ la\ lista\ \n\ @param\ elemento\ \ elemento\ a\ buscar\n\ @return\ \ true\ si\ el\ elemento\ esta\ en\ la\ lista\ \ false\ si\ no\n
+comment5.params=elemento
+comment5.target=void\ borrar(int)
+comment5.text=\n\ Borra\ la\ primera\ instancia\ de\ elemento.\ \n\ @param\ elemento\ \ elemento\ a\ borrar.\n
+numComments=6
